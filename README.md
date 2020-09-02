@@ -1,9 +1,7 @@
-### Hi there 👋
-
-<!--
-**samuelscn/samuelscn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ### Hi, I'm Samuel Silva 👋🏼
+
+<img align="left" hspace="50" vspace="50" width="200" height="200" src="https://github.com/samuelscn/samuelscn/blob/master/octocat.png">
+
 Front-end Web Development and Infrastructure Technician
 In the search for learning, discipline and new experiences for my professional development and also personal.
 Bachelor's Degree in Computer Science in 2016 - Present
