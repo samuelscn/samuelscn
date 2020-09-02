@@ -15,6 +15,8 @@ Bachelor's Degree in Computer Science in 2016 - Present
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=samuelscn&show_icons=true&count_private=true&layout=compact&hide=stars&include_all_commits=true&theme=default)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelscn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+credits: https://github.com/paulohepimentel
+
 
 
 
