@@ -1,6 +1,6 @@
 ### Hi, I'm Samuel Nascimento 👋
 
-#### **Senior Software Engineer | Full-Stack Developer | Tech Leader**
+#### **Senior Software Engineer | Full-Stack Developer**
 
 Passionate about building scalable and high-performance applications, I have been working as a Software Engineer since 2018, specializing in **backend development with Node.js and PostgreSQL** while maintaining strong expertise in **frontend technologies like Next.js and Vue.js**.
 
