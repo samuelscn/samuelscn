@@ -14,6 +14,9 @@ With a **Computer Science degree from UFV (Federal University of Viçosa - Brazi
 - Transitioned into **software development**, learning **JavaScript, Node.js, and Vue.js**, and quickly built my first applications.
 - Worked at **TCS**, contributing to a **hospital supply tracking system** with Vue.js and Node.js.
 - Joined **LinkAPI**, where I single-handedly managed a **mission-critical project for Sapore** (food service company), leading **backend and frontend refactors**, migrating Angular 6 to Angular 10, and designing **API integrations for enterprise clients like Samsung, Dotz, PicPay, and Magalu**.
+- Developed API integration systems, with the first client being **Coco Bambu**, using **Ruby on Jets**.
+- Built the **BFF for Moura Facil's** reseller app (**Brazil and Argentina**), similar to **Uber**, where users requesting a battery would be routed to the nearest reseller. Implemented **Azure Service Bus**, **containerized infrastructure** in Azure, and managed concurrent order conflicts, ensuring scalability and stability for operations across Brazil and Argentina.
+- Refactored the virtual list rendering system for a psychologist consultation platform, which previously crashed due to the accumulation of WebSocket data, significantly improving system stability and performance.
 - Currently working at **Mesa Mobile Thinking**, leading the development of a **white-label e-commerce system for schools**, scaling it to **25+ institutions**.
 - Part of the **BR Mania project** (Vibra | Petrobras), responsible for the redesign of their **business channel**, ensuring a cutting-edge, scalable architecture.
 
